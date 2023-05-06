@@ -27,6 +27,15 @@ li {
   list-style: none;
 }
 
+footer {
+  color: #fff;
+}
+
+.footer-link {
+  color: #fff;
+  font-weight: 500;
+}
+
 #description {
   margin: 0;
 }
